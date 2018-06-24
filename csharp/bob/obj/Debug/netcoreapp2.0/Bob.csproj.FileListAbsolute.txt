@@ -1,0 +1,14 @@
+/Users/katherinehanson/exercism/csharp/bob/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/katherinehanson/exercism/csharp/bob/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/katherinehanson/exercism/csharp/bob/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/katherinehanson/exercism/csharp/bob/bin/Debug/netcoreapp2.0/Bob.deps.json
+/Users/katherinehanson/exercism/csharp/bob/bin/Debug/netcoreapp2.0/Bob.runtimeconfig.json
+/Users/katherinehanson/exercism/csharp/bob/bin/Debug/netcoreapp2.0/Bob.runtimeconfig.dev.json
+/Users/katherinehanson/exercism/csharp/bob/bin/Debug/netcoreapp2.0/Bob.dll
+/Users/katherinehanson/exercism/csharp/bob/bin/Debug/netcoreapp2.0/Bob.pdb
+/Users/katherinehanson/exercism/csharp/bob/obj/Debug/netcoreapp2.0/Bob.csprojResolveAssemblyReference.cache
+/Users/katherinehanson/exercism/csharp/bob/obj/Debug/netcoreapp2.0/Bob.csproj.CoreCompileInputs.cache
+/Users/katherinehanson/exercism/csharp/bob/obj/Debug/netcoreapp2.0/Bob.AssemblyInfoInputs.cache
+/Users/katherinehanson/exercism/csharp/bob/obj/Debug/netcoreapp2.0/Bob.AssemblyInfo.cs
+/Users/katherinehanson/exercism/csharp/bob/obj/Debug/netcoreapp2.0/Bob.dll
+/Users/katherinehanson/exercism/csharp/bob/obj/Debug/netcoreapp2.0/Bob.pdb

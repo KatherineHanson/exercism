@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{32FE3FB3-1D40-420D-BF82-1E07B4485EC7}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Leap.cs">
+    <Files>
+      <File FileName="Leap.cs" Line="16" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Leap PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

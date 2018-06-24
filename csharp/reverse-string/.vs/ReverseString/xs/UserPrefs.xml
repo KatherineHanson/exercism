@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{51FF9961-7839-43E5-BE03-BC3ED74B1FAA}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Source Not Available">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReverseStringTest.cs">
     <Files>
       <File FileName="README.md" Line="1" Column="1" />
       <File FileName="ReverseString.cs" Line="15" Column="36" />
-      <File FileName="ReverseStringTest.cs" Line="1" Column="1" />
+      <File FileName="ReverseStringTest.cs" Line="27" Column="6" />
       <File FileName="Source Not Available" />
     </Files>
   </MonoDevelop.Ide.Workbench>
