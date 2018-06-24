@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8C6D0995-DF8F-4976-9F34-AFAA5198CA22}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Bob PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bob.cs">
+    <Files>
+      <File FileName="README.md" Line="14" Column="13" />
+      <File FileName="BobTest.cs" Line="87" Column="6" />
+      <File FileName="Bob.cs" Line="11" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
